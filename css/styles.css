@@ -1,0 +1,153 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.container-fluid {
+    padding: 0.5% 10%;
+}
+/* Navigation Section */
+
+.nav-item {
+    padding: 0 20px;
+}
+
+/* Title Section */
+
+#title_main {
+    background-color: rgb(23, 23, 23);
+}
+
+h1 {
+    color: #2DABEB;
+    font-size: 3.5rem;
+    font-weight: 600;
+    line-height: 1.5;
+    padding-top: 35%;
+}
+
+p {
+    color: rgb(182, 181, 181);
+}
+
+span {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #2DABEB;
+}
+
+/* About Me Section */
+
+#aboutme_main {
+    background-color: rgb(23, 23, 23);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(182, 181, 181);
+}
+
+h3 {
+    color: #2DABEB;
+    font-size: 2rem;
+    line-height: 1.5;
+
+}
+
+h4 {
+    color: rgb(182, 181, 181);
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
+
+.profile-pic {
+    margin-top: 170px;
+    height: 350px;
+    border-radius: 20%;
+}
+
+.iloveoman {
+    color: rgb(228, 98, 98);
+    font-size: 3rem;
+    font-weight: 200;
+    line-height: 1.2;
+}
+
+.iloveoman:hover {
+    color: rgb(56, 155, 99);
+}
+
+.aboutmebox {
+    text-align: center;
+    margin-top: 70px;
+}
+
+.fa-custom {
+    color: rgb(182, 181, 181);
+    margin-top: 20px;
+    padding-bottom: 60px;
+}
+
+.fa-custom:hover {
+    color: #2DABEB;
+}
+
+/* Certificates Section */
+
+#cert_main {
+    background-color: rgb(23, 23, 23);
+}
+
+.caro-custom {
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.carousel-item {
+    text-align: center;
+}
+
+.caro-item {
+    padding-top: 150px;
+}
+
+.cert-img {
+    height: 12%;
+    padding-right: 30px;
+}
+
+/* Contact Section */
+
+#contact_main {
+    background-color: #051e2b;
+}
+
+.calltoaction {
+    text-align: center;
+}
+
+.cta-custom {
+    padding-top: 150px;
+}
+
+.cta-contact {
+    color: rgb(182, 181, 181);
+    padding-top: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.cta-contact:hover {
+    color: #2DABEB;
+}
+
+/* Footer Section */
+
+.footerarea {
+    text-align: center;
+    padding-top: 70px;
+}
+
+.footer-custom {
+    color: #1a5877;
+    font-size: 0.75rem;
+}
