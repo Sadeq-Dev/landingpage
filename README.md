@@ -1,7 +1,7 @@
 # landingpage
 my first official landing page (still under testing)
 
-v1.0/v1.1: HTML/CSS first integration with libraries (2021/5)
+v1.0/v1.1: HTML/CSS first integration without libraries (2021/5)
 
 v2.0b: HTML/CSS + Bootstrap v5 first intergration (2021/5)
 
