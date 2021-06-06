@@ -1,5 +1,7 @@
 body {
     font-family: 'Raleway', sans-serif;
+    background-image: linear-gradient(to left, rgb(23, 23, 23), rgb(23, 23, 23), #0c2735);
+    text-align: center;
 }
 
 .container-fluid {
@@ -115,10 +117,20 @@ h4 {
     padding-right: 30px;
 }
 
+/* Products Section */
+
+#products_main {
+    background-image: linear-gradient(to left, rgb(23, 23, 23), rgb(23, 23, 23), #0c2735);
+}
+
+
 /* Contact Section */
 
 #contact_main {
     background-image: linear-gradient(to left, rgb(23, 23, 23), rgb(23, 23, 23), #0c2735);
+    height: 500px;
+    position: relative;
+    top: 200;
 }
 
 .custom-contact-card {
