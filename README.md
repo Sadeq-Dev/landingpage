@@ -9,5 +9,8 @@ v2.0b: HTML/CSS + Bootstrap v5 first intergration (2021/5)
 
 2.1.1b: gradient background and contact section reconstructed - CSS only (2021/6)
 
-current version 2.1.1b
-next version 2.1.5b
+2.2.0b: Sample work added
+
+current version 2.2.0b
+
+next version 2.2.5b (FULL Mobile and Tablet support will be added)
