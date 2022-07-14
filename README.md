@@ -14,3 +14,5 @@ v2.0b: HTML/CSS + Bootstrap v5 first intergration (2021/5)
 current version 2.2.0b
 
 next version 2.2.5b (FULL Mobile and Tablet support will be added)
+
+Mobile support is added
